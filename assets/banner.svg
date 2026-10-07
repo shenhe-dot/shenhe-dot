@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Shen — Web, Automation and Learning">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b30"/><stop offset="1" stop-color="#1a3651"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a6c8dd" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="260" rx="18" fill="url(#bg)"/><rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+<circle cx="1080" cy="32" r="150" fill="#5ce0bd" fill-opacity=".06"/><circle cx="1050" cy="210" r="92" fill="none" stroke="#5ce0bd" stroke-opacity=".18" stroke-width="2"/>
+<rect x="56" y="48" width="44" height="5" rx="2.5" fill="#5ce0bd"/>
+<text x="56" y="126" fill="#f1f6ff" font-family="Segoe UI,Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="3">SHEN</text>
+<text x="58" y="167" fill="#a7d4e2" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="4">WEB · AUTOMATION · LEARNING</text>
+<text x="58" y="217" fill="#99b2c8" font-family="Segoe UI,Arial,sans-serif" font-size="15">Small projects. Clear progress.</text>
+<path d="M918 96l-30 34 30 34m105-68 30 34-30 34m-43-46-20 64" stroke="#5ce0bd" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity=".8"/>
+</svg>

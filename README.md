@@ -1,4 +1,4 @@
-![Shen — Web, Automation & Learning](https://raw.githubusercontent.com/shenhe-dot/Magang/main/assets/banner.svg)
+![Shen — Web, Automation & Learning](https://raw.githubusercontent.com/shenhe-dot/shenhe-dot/main/assets/banner.svg)
 
 # Hai, aku Shen 👋
 
@@ -6,11 +6,9 @@ Aku sedang belajar membangun aplikasi web dan otomasi yang membantu pekerjaan se
 
 **Yang sedang dieksplorasi:** HTML · CSS · JavaScript · Google Apps Script · Google Sheets
 
-## Mulai dari proyekku
+## Fokus belajarku
 
-| Proyek | Tentang |
-| --- | --- |
-| [Magang · Catatan Belajar & Portofolio](https://github.com/shenhe-dot/Magang) | Pengantar portofolio, arah belajar, dan dokumentasi proyek. |
+Aplikasi web dan otomasi dengan Google Apps Script serta Google Sheets. Catatan kerja dan source proyek magang disimpan di repository private.
 
 ## Cara aku belajar
 
@@ -19,4 +17,4 @@ Aku sedang belajar membangun aplikasi web dan otomasi yang membantu pekerjaan se
 - Menggunakan bantuan AI sambil memeriksa hasilnya.
 - Mencatat perubahan dan pelajaran lewat GitHub.
 
-[**Lihat catatan & portofolio →**](https://github.com/shenhe-dot/Magang)
+[**Lihat repository publik →**](https://github.com/shenhe-dot?tab=repositories)
